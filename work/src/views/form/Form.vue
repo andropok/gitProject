@@ -1,7 +1,7 @@
 <template >
 
  <div>
-<h1>asfsdfasfasfasdfsda</h1>
+
 <div class="table">
   
       <table class="col-md-12 " border="3" lg="6" v-for="data in formdata  " :key="data">
